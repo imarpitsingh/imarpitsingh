@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yadavarpithp9292@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t89L4EyzJwfGX-Q6fTCj7yv-u0Qyvoif/view?usp=drivesdk](https://drive.google.com/file/d/1Pe29vtRF3GTRWvvnzflfMU_niwIz8Ayz/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1t89L4EyzJwfGX-Q6fTCj7yv-u0Qyvoif/view?usp=drivesdk](https://drive.google.com/file/d/1Szz5RmOvhZkXxr8yPa5mOMLMy4GEZKj0/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
