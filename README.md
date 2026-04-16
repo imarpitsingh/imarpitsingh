@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Arpit Yadav</h1>
-<h3 align="center">Software Developer | Java | Spring Boot | Full Stack</h3>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
@@ -12,14 +12,12 @@
 
 ### 👨‍💻 About Me
 - 💼 Software Developer passionate about scalable applications  
-- 🔭 Working on **Java, Spring Boot & Microservices**  
-- 🌱 Learning **System Design & Advanced Backend**  
 - 👨‍💻 Projects:  
-  👉 https://github.com/imarpitsingh  
+  👉 <a href="https://github.com/imarpitsingh">My GitHub</a>  
 - 📫 Email:  
   👉 **yadavarpithp9292@gmail.com**  
 - 📄 Resume:  
-  👉 https://drive.google.com/file/d/1Szz5RmOvhZkXxr8yPa5mOMLMy4GEZKj0/view  
+  👉 <a href="https://drive.google.com/file/d/1HCkBu4g-Iqmb7YFeBbkpsOLXs8d13IBi/view?usp=sharing">View Resume</a>  
 
 ---
 
@@ -58,6 +56,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </p>
 
